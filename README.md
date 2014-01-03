@@ -1,7 +1,7 @@
 MineTek
 =======
 
-Repository for the MineTek modpack. Only used for issue and issue tracking.
+Repository for the MineTek modpack. Only used for bug and issue tracking.
 
 Changelog
 =========
