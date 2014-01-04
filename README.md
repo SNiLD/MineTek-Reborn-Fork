@@ -6,6 +6,10 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+1.6.4-0.7:
+
+* Modified Biomes O' Plenty ID's.
+
 1.6.4-0.6:
 
 * Added NEI Plugins version 1.1.0.6
