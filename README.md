@@ -6,6 +6,17 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+1.6.4-0.9:
+
+* Removed Buildcraft Tools
+* Removed Better Anvil
+* Removed Additional Buildcraft Objects.
+
+1.6.4-0.8:
+
+* Fixes Factorization-ProjectRed conflict.
+* Fixes Thermal Expansion-DenPipes conflict.
+
 1.6.4-0.7:
 
 * Modified Biomes O' Plenty ID's.
