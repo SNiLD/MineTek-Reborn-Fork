@@ -1,12 +1,5 @@
 Found ConfigField TileEntityRemover_Enabled
 Found ConfigField TileEntityTargetList
-Ore: gearWood
-Ore: gearStone
-Ore: gearIron
-Ore: gearGold
-Ore: gearDiamond
-Fluid: oil
-Fluid: fuel
 Ore: sandstone
 Ore: glass
 Ore: oreCoal
@@ -25,6 +18,11 @@ Ore: dustRedstone
 Ore: slimeball
 Ore: dustGlowstone
 Ore: nuggetGold
+Ore: gearWood
+Ore: gearStone
+Ore: gearIron
+Ore: gearGold
+Ore: gearDiamond
 Fluid: uumatter
 Fluid: constructionfoam
 Fluid: ic2coolant
@@ -181,6 +179,8 @@ Ore: flowerDaffodil
 Ore: flowerRainbow
 Ore: plantAlgae
 Ore: plantSprout
+Fluid: oil
+Fluid: fuel
 Fluid: milk
 Fluid: sludge
 Fluid: sewage
@@ -292,3 +292,1052 @@ Ore: brSmallMachineCyaniteProcessor
 Fluid: yellorium
 Fluid: cyanite
 Fluid: fuelcolumn
+Ore: sludge
+Ore: oreSilver
+Ore: ingotSilver
+Ore: ingotLead
+Ore: blockSilver
+Ore: blockLead
+Ore: oreFzDarkIron
+Ore: ingotFzDarkIron
+Ore: blockFzDarkIron
+Ore: sulfuricAcid
+Ore: aquaRegia
+Ore: oreSulfur
+Ore: dustSulfur
+Ore: oreCopper
+Ore: oreTin
+Ore: oreAluminum
+Ore: oreAluminium
+Ore: oreNaturalAluminum
+Ore: oreSilicon
+Ore: ingotCopper
+Ore: ingotTin
+Ore: ingotAluminum
+Ore: compressedCopper
+Ore: compressedTin
+Ore: compressedAluminum
+Ore: compressedSteel
+Ore: compressedBronze
+Ore: compressedIron
+Ore: waferSolar
+Ore: waferBasic
+Ore: waferAdvanced
+Ore: plateMeteoricIron
+Ore: ingotMeteoricIron
+Fluid: bacterialsludge
+Ore: ingotUranium
+Ore: ingotIridium
+Ore: solarPanelHV
+Ore: sunnariumPart
+Ore: sunnarium
+Ore: itemSuperconductor
+Fluid: fortron
+Ore: oreUranium
+Ore: elementHydrogen
+Ore: elementHelium
+Ore: elementLithium
+Ore: elementBeryllium
+Ore: elementBoron
+Ore: elementCarbon
+Ore: elementNitrogen
+Ore: elementOxygen
+Ore: elementFlourine
+Ore: elementNeon
+Ore: elementSodium
+Ore: elementMagnesium
+Ore: elementAluminium
+Ore: elementSilicon
+Ore: elementPhosphorus
+Ore: elementSulfur
+Ore: elementChlorine
+Ore: elementArgon
+Ore: elementPotassium
+Ore: elementCalcium
+Ore: elementScandium
+Ore: elementTitanium
+Ore: elementVanadium
+Ore: elementChromium
+Ore: elementManganese
+Ore: elementIron
+Ore: elementCobalt
+Ore: elementNickel
+Ore: elementCopper
+Ore: elementZinc
+Ore: elementGallium
+Ore: elementGermanium
+Ore: elementArsenic
+Ore: elementSelenium
+Ore: elementBromine
+Ore: elementKrypton
+Ore: elementRubidium
+Ore: elementStrontium
+Ore: elementYttrium
+Ore: elementZirconium
+Ore: elementNiobium
+Ore: elementMolybdenum
+Ore: elementTechnetium
+Ore: elementRuthenium
+Ore: elementRhodium
+Ore: elementPalladium
+Ore: elementSilver
+Ore: elementCadmium
+Ore: elementIndium
+Ore: elementTin
+Ore: elementAntimony
+Ore: elementTellurium
+Ore: elementIodine
+Ore: elementXenon
+Ore: elementCaesium
+Ore: elementBarium
+Ore: elementLanthanum
+Ore: elementCerium
+Ore: elementPraseodymium
+Ore: elementNeodymium
+Ore: elementPromethium
+Ore: elementSamarium
+Ore: elementEuropium
+Ore: elementGadolinium
+Ore: elementTerbium
+Ore: elementDyprosium
+Ore: elementHolmium
+Ore: elementErbium
+Ore: elementThulium
+Ore: elementYtterbium
+Ore: elementLutetium
+Ore: elementHafnium
+Ore: elementTantalum
+Ore: elementTungsten
+Ore: elementRhenium
+Ore: elementOsmium
+Ore: elementIridium
+Ore: elementPlatinum
+Ore: elementGold
+Ore: elementMercury
+Ore: elementThallium
+Ore: elementLead
+Ore: elementBismuth
+Ore: elementPolonium
+Ore: elementAstantine
+Ore: elementRadon
+Ore: elementFrancium
+Ore: elementRadium
+Ore: elementActinium
+Ore: elementThorium
+Ore: elementProtactinium
+Ore: elementUranium
+Ore: elementNeptunium
+Ore: elementPlutonium
+Ore: elementAmericium
+Ore: elementCurium
+Ore: elementBerkelium
+Ore: elementCalifornium
+Ore: elementEinsteinium
+Ore: elementFermium
+Ore: elementMendelenium
+Ore: elementNobelium
+Ore: elementLawrencium
+Ore: elementRutherfordium
+Ore: elementDubnium
+Ore: elementSeaborgium
+Ore: elementBohrium
+Ore: elementHassium
+Ore: elementMeitnerium
+Ore: elementDarmstadtium
+Ore: elementRoenthenium
+Ore: elementCopernicium
+Ore: elementUnuntrium
+Fluid: myst.ink.black
+Ore: hambone
+Fluid: iron.molten
+Fluid: gold.molten
+Fluid: copper.molten
+Fluid: tin.molten
+Fluid: aluminum.molten
+Fluid: cobalt.molten
+Fluid: ardite.molten
+Fluid: bronze.molten
+Fluid: aluminumbrass.molten
+Fluid: manyullyn.molten
+Fluid: alumite.molten
+Fluid: obsidian.molten
+Fluid: steel.molten
+Fluid: glass.molten
+Fluid: stone.seared
+Fluid: emerald.liquid
+Fluid: blood
+Fluid: nickel.molten
+Fluid: lead.molten
+Fluid: silver.molten
+Fluid: platinum.molten
+Fluid: invar.molten
+Fluid: electrum.molten
+Fluid: ender
+Fluid: slime.blue
+Ore: oreCobalt
+Ore: oreArdite
+Ore: oreCopper
+Ore: oreTin
+Ore: oreNaturalAluminum
+Ore: oreIron
+Ore: oreGold
+Ore: oreCobalt
+Ore: oreCopper
+Ore: oreTin
+Ore: oreNaturalAluminum
+Ore: ingotCobalt
+Ore: ingotArdite
+Ore: ingotManyullyn
+Ore: ingotCopper
+Ore: ingotTin
+Ore: ingotNaturalAluminum
+Ore: naturalAluminum
+Ore: ingotBronze
+Ore: ingotAluminumBrass
+Ore: ingotAlumite
+Ore: ingotSteel
+Ore: ingotObsidian
+Ore: blockCobalt
+Ore: blockArdite
+Ore: blockManyullyn
+Ore: blockCopper
+Ore: blockBronze
+Ore: blockTin
+Ore: blockNaturalAluminum
+Ore: blockAluminumBrass
+Ore: blockAlumite
+Ore: blockSteel
+Ore: nuggetIron
+Ore: nuggetIron
+Ore: nuggetCopper
+Ore: nuggetCopper
+Ore: nuggetTin
+Ore: nuggetTin
+Ore: nuggetNaturalAluminum
+Ore: nuggetNaturalAluminum
+Ore: nuggetAluminumBrass
+Ore: nuggetObsidian
+Ore: nuggetCobalt
+Ore: nuggetArdite
+Ore: nuggetManyullyn
+Ore: nuggetBronze
+Ore: nuggetAlumite
+Ore: nuggetSteel
+Ore: nuggetGold
+Ore: slabCloth
+Ore: slabCloth
+Ore: stoneMossy
+Ore: stoneMossy
+Ore: crafterWood
+Ore: woodRod
+Ore: stoneRod
+Ore: ironRod
+Ore: flintRod
+Ore: cactusRod
+Ore: boneRod
+Ore: obsidianRod
+Ore: netherrackRod
+Ore: slimeRod
+Ore: paperRod
+Ore: cobaltRod
+Ore: arditeRod
+Ore: manyullynRod
+Ore: copperRod
+Ore: bronzeRod
+Ore: alumiteRod
+Ore: steelRod
+Ore: blueslimeRod
+Ore: thaumiumRod
+Ore: glassWhite
+Ore: glassOrange
+Ore: glassMagenta
+Ore: glassLightBlue
+Ore: glassYellow
+Ore: glassLime
+Ore: glassPink
+Ore: glassGray
+Ore: glassLightGray
+Ore: glassCyan
+Ore: glassPurple
+Ore: glassBlue
+Ore: glassBrown
+Ore: glassGreen
+Ore: glassRed
+Ore: glassBlack
+Ore: slimeball
+Ore: slimeball
+Ore: glass
+Ore: glass
+Ore: stoneRod
+Ore: oreNetherCoal
+Ore: oreNetherDiamond
+Ore: oreNetherGold
+Ore: oreNetherIron
+Ore: oreNetherLapis
+Ore: oreNetherRedstone
+Ore: oreNetherCopper
+Ore: oreNetherTin
+Ore: oreNetherEmerald
+Ore: oreNetherSilver
+Ore: oreNetherLead
+Ore: oreNetherUranium
+Ore: oreNetherNikolite
+Ore: oreNetherRuby
+Ore: oreNetherPeridot
+Ore: oreNetherSapphire
+Ore: oreNetherPlatinum
+Ore: oreNetherNickel
+Ore: oreNetherSteel
+Ore: oreNetherIridium
+Ore: oreNetherOsmium
+Ore: dustIron
+Ore: dustGold
+Ore: dustCoal
+Ore: dustObsidian
+Ore: dustCopper
+Ore: dustTin
+Ore: dustSilver
+Ore: dustLead
+Ore: dustNickel
+Ore: dustPlatinum
+Ore: dustElectrum
+Ore: dustInvar
+Ore: dustBronze
+Ore: dustEnderium
+Ore: ingotCopper
+Ore: ingotTin
+Ore: ingotSilver
+Ore: ingotLead
+Ore: ingotNickel
+Ore: ingotPlatinum
+Ore: ingotElectrum
+Ore: ingotInvar
+Ore: ingotBronze
+Ore: ingotEnderium
+Ore: nuggetCopper
+Ore: nuggetTin
+Ore: nuggetSilver
+Ore: nuggetLead
+Ore: nuggetNickel
+Ore: nuggetPlatinum
+Ore: nuggetElectrum
+Ore: nuggetInvar
+Ore: nuggetBronze
+Ore: nuggetEnderium
+Ore: dustSulfur
+Ore: dustSaltpeter
+Ore: crystalCinnabar
+Ore: gearCopper
+Ore: gearTin
+Ore: gearElectrum
+Ore: gearInvar
+Ore: gearBronze
+Ore: oreCopper
+Ore: oreTin
+Ore: oreSilver
+Ore: oreLead
+Ore: oreNickel
+Ore: blockCopper
+Ore: blockTin
+Ore: blockSilver
+Ore: blockLead
+Ore: blockNickel
+Ore: blockPlatinum
+Ore: blockElectrum
+Ore: blockInvar
+Ore: blockBronze
+Ore: blockEnderium
+Ore: glassHardened
+Fluid: redstone
+Fluid: glowstone
+Fluid: pyrotheum
+Fluid: cryotheum
+Fluid: coal
+Fluid: immibis.liquidxp
+Ore: oreCertusQuartz
+Ore: crystalCertusQuartz
+Ore: dustCertusQuartz
+Ore: dustNetherQuartz
+Ore: dustEnderPearl
+Ore: dustGold
+Ore: dustIron
+Ore: dustWheat
+Ore: stone
+Ore: stone
+Ore: cobblestone
+Ore: cobblestone
+Ore: blockSteel
+Ore: ingotSteel
+Ore: dustSteel
+Ore: dyeBlue
+Ore: dyeBlack
+Ore: dyeBrown
+Ore: dyeWhite
+Ore: nuggetCopper
+Ore: nuggetSilver
+Ore: nuggetGold
+Ore: nuggetPlatinum
+Ore: coinCopper
+Ore: coinSilver
+Ore: coinGold
+Ore: coinPlatinum
+Ore: itemRubber
+Ore: itemRawRubber
+Ore: woodRubber
+Ore: sheetPlastic
+Ore: dustPlastic
+Ore: ingotMeat
+Ore: ingotMeatRaw
+Ore: nuggetMeat
+Ore: nuggetMeatRaw
+Ore: itemCharcoalSugar
+Ore: cableRedNet
+Ore: slimeball
+Fluid: glass
+Fluid: biomass
+Fluid: bioethanol
+Fluid: seedoil
+Fluid: honey
+Fluid: juice
+Fluid: ice
+Ore: universalCable
+Ore: battery
+Ore: dustIron
+Ore: dustGold
+Ore: dustOsmium
+Ore: dustRefinedObsidian
+Ore: dustDiamond
+Ore: dustSteel
+Ore: dustCopper
+Ore: dustTin
+Ore: dustSilver
+Ore: ingotRefinedObsidian
+Ore: ingotOsmium
+Ore: ingotBronze
+Ore: ingotRefinedGlowstone
+Ore: ingotSteel
+Ore: ingotCopper
+Ore: ingotTin
+Ore: blockOsmium
+Ore: blockBronze
+Ore: blockRefinedObsidian
+Ore: blockCoal
+Ore: blockRefinedGlowstone
+Ore: blockSteel
+Ore: dustDirtyIron
+Ore: dustDirtyGold
+Ore: dustDirtyOsmium
+Ore: dustDirtyCopper
+Ore: dustDirtyTin
+Ore: dustDirtySilver
+Ore: dustDirtyObsidian
+Ore: dustObsidian
+Ore: clumpIron
+Ore: clumpGold
+Ore: clumpOsmium
+Ore: clumpCopper
+Ore: clumpTin
+Ore: clumpSilver
+Ore: clumpObsidian
+Ore: oreOsmium
+Ore: oreCopper
+Ore: oreTin
+Ore: itemBioFuel
+Fluid: minechem chemical: cellulose
+Fluid: minechem chemical: water
+Fluid: minechem chemical: carbon dioxide
+Fluid: minechem chemical: nitrogen dioxide
+Fluid: minechem chemical: toluene
+Fluid: minechem chemical: potassium nitrate
+Fluid: minechem chemical: trinitrotoluene
+Fluid: minechem chemical: silicon dioxide
+Fluid: minechem chemical: calcite
+Fluid: minechem chemical: pyrite
+Fluid: minechem chemical: nepheline
+Fluid: minechem chemical: sulfate (ion)
+Fluid: minechem chemical: noselite
+Fluid: minechem chemical: sodalite
+Fluid: minechem chemical: nitrate (ion)
+Fluid: minechem chemical: carbonate (ion)
+Fluid: minechem chemical: potassium cyanide
+Fluid: minechem chemical: phosphate (ion)
+Fluid: minechem chemical: acetate (ion)
+Fluid: minechem chemical: chromate (ion)
+Fluid: minechem chemical: hydroxide (ion)
+Fluid: minechem chemical: ammonium (ion)
+Fluid: minechem chemical: hydronium (ion)
+Fluid: minechem chemical: peroxide (ion)
+Fluid: minechem chemical: calcium oxide
+Fluid: minechem chemical: calcium carbonate
+Fluid: minechem chemical: magnesium carbonate
+Fluid: minechem chemical: lazurite
+Fluid: minechem chemical: isoprene
+Fluid: minechem chemical: butene
+Fluid: minechem chemical: polyisobutylene rubber
+Fluid: minechem chemical: malic acid
+Fluid: minechem chemical: vinyl chloride monomer
+Fluid: minechem chemical: polyvinyl chloride
+Fluid: minechem chemical: methamphetamine
+Fluid: minechem chemical: psilocybin
+Fluid: minechem chemical: iron (iii) oxide
+Fluid: minechem chemical: strontium nitrate
+Fluid: minechem chemical: magnetite
+Fluid: minechem chemical: magnesium oxide
+Fluid: minechem chemical: cucurbitacin
+Fluid: minechem chemical: aspartic acid
+Fluid: minechem chemical: hydroxylapatite
+Fluid: minechem chemical: alanine (amino acid)
+Fluid: minechem chemical: glycine (amino acid)
+Fluid: minechem chemical: serine  (amino acid)
+Fluid: minechem chemical: mescaline
+Fluid: minechem chemical: methyl (ion)
+Fluid: minechem chemical: methylene (ion)
+Fluid: minechem chemical: cyanoacrylate
+Fluid: minechem chemical: poly-cyanoacrylate
+Fluid: minechem chemical: cobalt(ii) nitrate
+Fluid: minechem chemical: potassium dichromate
+Fluid: minechem chemical: potassium chromate
+Fluid: minechem chemical: nickel(ii) chloride
+Fluid: minechem chemical: copper(ii) sulfate
+Fluid: minechem chemical: potassium permanganate
+Fluid: minechem chemical: zinc green
+Fluid: minechem chemical: carbon black
+Fluid: minechem chemical: titanium dioxide
+Fluid: minechem chemical: metasilicate
+Fluid: minechem chemical: beryl
+Fluid: minechem chemical: ethyl alcohol
+Fluid: minechem chemical: amphetamine
+Fluid: minechem chemical: theobromine
+Fluid: minechem chemical: starch
+Fluid: minechem chemical: sucrose
+Fluid: minechem chemical: pantherine
+Fluid: minechem chemical: aluminium oxide
+Fluid: minechem chemical: carbon nanotubes
+Fluid: minechem chemical: keratin
+Fluid: minechem chemical: penicillin
+Fluid: minechem chemical: testosterone
+Fluid: minechem chemical: kaolinite
+Fluid: minechem chemical: fingolimod
+Fluid: minechem chemical: arginine (amino acid)
+Fluid: minechem chemical: shikimic acid
+Fluid: minechem chemical: sulfuric acid
+Fluid: minechem chemical: glyphosate
+Fluid: minechem chemical: aspirin
+Fluid: minechem chemical: ddt
+Fluid: minechem chemical: dota
+Fluid: minechem chemical: t-2 mycotoxin
+Fluid: minechem chemical: salt
+Fluid: minechem chemical: ammonia
+Fluid: minechem chemical: nodularin
+Fluid: minechem chemical: ttx (tetrodotoxin)
+Fluid: minechem chemical: thc
+Fluid: minechem chemical: methylcyclopentadienyl manganese tricarbonyl
+Fluid: minechem chemical: tert-butyllithium
+Fluid: minechem chemical: chloroplatinic acid
+Fluid: minechem chemical: phosgene
+Fluid: minechem chemical: allyl alcohol
+Fluid: minechem chemical: diphenhydramine
+Fluid: minechem chemical: batrachotoxin
+Fluid: minechem chemical: retinol
+Fluid: minechem chemical: xylitol
+Fluid: minechem chemical: aminocyclopyrachlor
+Fluid: minechem chemical: alprazolam
+Fluid: minechem chemical: hydrogen chloride
+Fluid: minechem chemical: cocaine
+Fluid: minechem chemical: cocaine hydrochloride
+Fluid: minechem chemical: 1,4-dimethyl-7-isopropylazulene (guaiazulene)
+Fluid: minechem chemical: pelargonidin
+Fluid: minechem chemical: delphinidin
+Fluid: minechem chemical: olivine
+Fluid: minechem chemical: methylene blue
+Fluid: minechem chemical: methyl alcohol
+Fluid: minechem chemical: cholesteryl benzoate
+Fluid: minechem chemical: radium chloride
+Fluid: minechem chemical: caulerpenyne
+Fluid: minechem chemical: l-hyoscyamine
+Fluid: minechem chemical: gallic acid
+Fluid: minechem chemical: glucose
+Fluid: minechem chemical: tannic acid
+Fluid: minechem chemical: hydrogen peroxide
+Fluid: minechem chemical: gallium arsenide
+Fluid: minechem chemical: fibroin
+Fluid: minechem chemical: aluminium phosphate
+Fluid: minechem chemical: potassium oxide
+Fluid: minechem chemical: sodium oxide
+Fluid: minechem chemical: anorthite
+Fluid: minechem chemical: albite
+Fluid: minechem chemical: orthoclase
+Fluid: minechem chemical: biotite
+Fluid: minechem chemical: augite
+Fluid: minechem chemical: talc
+Fluid: helium
+Fluid: lithium
+Fluid: beryllium
+Fluid: boron
+Fluid: carbon
+Fluid: nitrogen
+Fluid: flourine
+Fluid: neon
+Fluid: sodium
+Fluid: magnesium
+Fluid: aluminium
+Fluid: silicon
+Fluid: phosphorus
+Fluid: sulfur
+Fluid: chlorine
+Fluid: argon
+Fluid: potassium
+Fluid: calcium
+Fluid: scandium
+Fluid: titanium
+Fluid: vanadium
+Fluid: chromium
+Fluid: manganese
+Fluid: iron
+Fluid: cobalt
+Fluid: nickel
+Fluid: copper
+Fluid: zinc
+Fluid: gallium
+Fluid: germanium
+Fluid: arsenic
+Fluid: selenium
+Fluid: bromine
+Fluid: krypton
+Fluid: rubidium
+Fluid: strontium
+Fluid: yttrium
+Fluid: zirconium
+Fluid: niobium
+Fluid: molybdenum
+Fluid: technetium
+Fluid: ruthenium
+Fluid: rhodium
+Fluid: palladium
+Fluid: silver
+Fluid: cadmium
+Fluid: indium
+Fluid: tin
+Fluid: antimony
+Fluid: tellurium
+Fluid: iodine
+Fluid: xenon
+Fluid: caesium
+Fluid: barium
+Fluid: lanthanum
+Fluid: cerium
+Fluid: praseodymium
+Fluid: neodymium
+Fluid: promethium
+Fluid: samarium
+Fluid: europium
+Fluid: gadolinium
+Fluid: terbium
+Fluid: dyprosium
+Fluid: holmium
+Fluid: erbium
+Fluid: thulium
+Fluid: ytterbium
+Fluid: lutetium
+Fluid: hafnium
+Fluid: tantalum
+Fluid: tungsten
+Fluid: rhenium
+Fluid: osmium
+Fluid: iridium
+Fluid: platinum
+Fluid: gold
+Fluid: mercury
+Fluid: thallium
+Fluid: lead
+Fluid: bismuth
+Fluid: polonium
+Fluid: astantine
+Fluid: radon
+Fluid: francium
+Fluid: radium
+Fluid: actinium
+Fluid: thorium
+Fluid: protactinium
+Fluid: uranium
+Fluid: neptunium
+Fluid: plutonium
+Fluid: americium
+Fluid: curium
+Fluid: berkelium
+Fluid: californium
+Fluid: einsteinium
+Fluid: fermium
+Fluid: mendelenium
+Fluid: nobelium
+Fluid: lawrencium
+Fluid: rutherfordium
+Fluid: dubnium
+Fluid: seaborgium
+Fluid: bohrium
+Fluid: hassium
+Fluid: meitnerium
+Fluid: darmstadtium
+Fluid: roenthenium
+Fluid: copernicium
+Fluid: ununtrium
+Ore: logWood
+Ore: logWood
+Ore: treeSapling
+Ore: treeLeaves
+Ore: treeLeaves
+Ore: plankWood
+Ore: componentWiring
+Ore: componentSolenoid
+Ore: componentServo
+Ore: componentGliderWing
+Ore: componentIonThruster
+Ore: componentLVCapacitor
+Ore: componentMVCapacitor
+Ore: componentHVCapacitor
+Ore: componentParachute
+Ore: componentPlatingBasic
+Ore: componentPlatingAdvanced
+Ore: componentFieldEmitter
+Ore: componentLaserEmitter
+Ore: componentCarbonMyofiber
+Ore: componentControlCircuit
+Ore: componentMyofiberGel
+Ore: componentArtificialMuscle
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredPart
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Ore: projredIllumar
+Fluid: molten redstone
+Fluid: molten conductive redmetal
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredInsFramedWire
+Ore: projredInsulatedWire
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: projredBundledCable
+Ore: dyeWhite
+Ore: dyeOrange
+Ore: dyeMagenta
+Ore: dyeLightBlue
+Ore: dyeYellow
+Ore: dyeLime
+Ore: dyePink
+Ore: dyeGray
+Ore: dyeLightGray
+Ore: dyeCyan
+Ore: dyePurple
+Ore: dyeBlue
+Ore: dyeBrown
+Ore: dyeGreen
+Ore: dyeRed
+Ore: dyeBlack
+Ore: oreCopper
+Ore: oilsandsOre
+Ore: petroleumOre
+Ore: ingotCopper
+Ore: dieselFuel
+Ore: ingotSteel
+Ore: dustPlastic
+Ore: dustCoal
+Fluid: diesel
+Fluid: refinedfuel
+Ore: diamondNugget
+Ore: obsidianRod
+Ore: stoneBowl
+Ore: circuitElite
+Ore: circuitBasic
+Ore: ingotCopper
+Ore: ingotCopper
+Ore: ingotBronze
+Ore: ingotBronze
+Ore: circuitAdvanced
+Ore: ingotSteel
+Ore: ingotSteel
+Ore: plateSteel
+Ore: wrench
+Ore: dustSteel
+Ore: motor
+Ore: oreCopper
+Ore: oreCopper
+Ore: oreTin
+Ore: oreTin
+Ore: plateBronze
+Ore: dustBronze
+Ore: ingotTin
+Ore: ingotTin
+Ore: glassWhite
+Ore: glassPaneWhite
+Ore: glassOrange
+Ore: glassPaneOrange
+Ore: glassMagenta
+Ore: glassPaneMagenta
+Ore: glassLightBlue
+Ore: glassPaneLightBlue
+Ore: glassYellow
+Ore: glassPaneYellow
+Ore: glassLime
+Ore: glassPaneLime
+Ore: glassPink
+Ore: glassPanePink
+Ore: glassGray
+Ore: glassPaneGray
+Ore: glassLightGray
+Ore: glassPaneLightGray
+Ore: glassCyan
+Ore: glassPaneCyan
+Ore: glassPurple
+Ore: glassPanePurple
+Ore: glassBlue
+Ore: glassPaneBlue
+Ore: glassBrown
+Ore: glassPaneBrown
+Ore: glassGreen
+Ore: glassPaneGreen
+Ore: glassRed
+Ore: glassPaneRed
+Ore: glassBlack
+Ore: glassPaneBlack
+Fluid: short.mead
+Ore: cellEmpty
+Ore: circuitBasic
+Ore: itemCompressedCarbon
+Ore: itemEnrichedAlloy
+Ore: fz.waterBucketLike
+Ore: fz.waterBucketLike
+Ore: fz.waterBucketLike
+Ore: fz.waterBucketLike
+Ore: fz.waterBucketLike
+Ore: fz.waterBucketLike
+Ore: dirtyGravelIron
+Ore: cleanGravelIron
+Ore: reducedIron
+Ore: crystallineIron
+Ore: dirtyGravelGold
+Ore: cleanGravelGold
+Ore: reducedGold
+Ore: crystallineGold
+Ore: dirtyGravelLead
+Ore: cleanGravelLead
+Ore: reducedLead
+Ore: crystallineLead
+Ore: dirtyGravelTin
+Ore: cleanGravelTin
+Ore: reducedTin
+Ore: crystallineTin
+Ore: dirtyGravelCopper
+Ore: cleanGravelCopper
+Ore: reducedCopper
+Ore: crystallineCopper
+Ore: dirtyGravelGalena
+Ore: cleanGravelGalena
+Ore: reducedGalena
+Ore: crystallineGalena
+Ore: dirtyGravelSilver
+Ore: cleanGravelSilver
+Ore: reducedSilver
+Ore: crystallineSilver
+Ore: dirtyGravelAluminum
+Ore: cleanGravelAluminum
+Ore: reducedAluminum
+Ore: crystallineAluminum
+Ore: dirtyGravelCobalt
+Ore: cleanGravelCobalt
+Ore: reducedCobalt
+Ore: crystallineCobalt
+Ore: dirtyGravelArdite
+Ore: cleanGravelArdite
+Ore: reducedArdite
+Ore: crystallineArdite
+Ore: dirtyGravelDark Iron
+Ore: cleanGravelDark Iron
+Ore: reducedDark Iron
+Ore: crystallineDark Iron
+Ore: greggy_greg_do_please_kindly_stuff_a_sock_in_it
+Ore: plateSteel
+Ore: plateBronze
+Ore: plateBronze
+Ore: calclavia:CIRCUIT_T1
+Ore: calclavia:CIRCUIT_T1
+Ore: calclavia:CIRCUIT_T2
+Ore: calclavia:CIRCUIT_T3
+Ore: calclavia:ADVANCED_BATTERY
+Ore: calclavia:BATTERY
+Ore: calclavia:BATTERY_BOX
+Ore: calclavia:WRENCH
+Ore: calclavia:WIRE
+Ore: calclavia:MOTOR
+Ore: ingotDesh
+Ore: plateDesh
+Ore: plateHeavyT2
+Ore: MiscPeripherals$rtgChamber
+Ore: MiscPeripherals$rtgGenerator
+Ore: MiscPeripherals$rtgCircuit
+Ore: MiscPeripherals$energyMeter
+Ore: MiscPeripherals$bcGate
+Ore: MiscPeripherals$bcGate
+Ore: MiscPeripherals$bcPipeWire
+Ore: MiscPeripherals$bcPipeWire
+Ore: MiscPeripherals$bcPipeWire
+Ore: MiscPeripherals$bcPipeWire
+Ore: MiscPeripherals$enderChest
+Ore: MiscPeripherals$disk
+Ore: MiscPeripherals$disk
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: pr_bag
+Ore: gemRuby
+Ore: gemSapphire
+Ore: gemPeridot
+Ore: oreRuby
+Ore: oreSapphire
+Ore: orePeridot
+Ore: oreNaquadah
+Ore: naquadah
+Ore: ingotNaquadahAlloy
