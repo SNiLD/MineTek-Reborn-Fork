@@ -6,6 +6,13 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+1.6.4-0.9.2:
+
+* Removed IndustrialCraft2
+* Removed IC2 Advanced Solar Panels
+* Removed IC2 Gravitation Suite
+* Removed IC2 Advanced Machines
+
 1.6.4-0.9:
 
 * Removed Buildcraft Tools
