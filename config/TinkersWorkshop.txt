@@ -1,12 +1,11 @@
 # Configuration file
 
 ####################
-# alpha behavior
+# achievement properties
 ####################
 
-"alpha behavior" {
-    B:"Regenerate HP from food"=false
-    B:"Remove hunger"=false
+"achievement properties" {
+    B:AchievementsEnabled=true
 }
 
 
@@ -25,10 +24,9 @@ battlegear {
 ####################
 
 block {
-    I:Aggregator=3221
     I:"Air Tank"=3246
-    I:Antilight=3246
     I:"Birch Barricade"=1483
+    I:"Blood Channel"=3189
     I:"Casting Channel"=3249
     I:"Clear Glass"=3223
     I:"Clear Stained Glass"=3225
@@ -37,17 +35,16 @@ block {
     I:"Crafting Slab"=3243
     I:"Crafting Station"=3233
     I:"Drying Rack"=3227
-    I:"Essence Extractor"=3234
+    I:"Furnace Slab"=3192
     I:"Glass Pane"=3228
+    I:"Glue Block"=3219
+    I:"Glue Fluid Block"=3220
     I:"Held Item Block"=1472
     I:"Jungle Barricade"=1487
     I:Landmine=1470
     I:"Lava Tank"=1473
-    I:"Light Crystal"=3222
     I:"Liquid Blue Slime"=3235
     I:"Liquid Cow"=3217
-    I:"Liquid Metal Flowing"=1479
-    I:"Liquid Metal Still"=1480
     I:"Meat Block"=3242
     I:"Metal Storage"=1478
     I:"Molten Aluminum"=3205
@@ -75,13 +72,15 @@ block {
     I:"Molten Tin"=3204
     I:"Multi Brick"=1481
     I:"Multi Brick Fancy"=1467
+    I:"Nether Lava Tank"=3186
+    I:"Nether Seared Block"=3188
+    I:"Nether Smeltery"=3187
     I:"Oak Barricade"=1469
     I:"Ore Berry One"=1485
     I:"Ore Berry Two"=1486
     I:"Ores Gravel"=1488
     I:"Ores Slag"=1475
     I:Punji=3232
-    I:"Redstone Machines"=3226
     I:SDX=3247
     I:"Seared Slab"=3230
     I:"Seared Table"=1477
@@ -112,6 +111,7 @@ block {
 ####################
 
 "difficulty changes" {
+    B:"Allow creation of endstone"=true
     B:"Craft Stencil Tables"=true
     B:"Craft metals with Wood Patterns"=false
     B:"Craft vanilla metal blocks"=true
@@ -128,7 +128,6 @@ block {
     B:"Enable mod wooden tools"=true
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
-    B:"Lower bronze output to 2 ingots"=false
     B:"Modifiers increase Mining Level"=true
     B:"Remove Vanilla Tool Recipes"=false
     B:"Spawn beginner book"=true
@@ -160,12 +159,12 @@ dimblacklist {
 ####################
 
 equipables {
+    I:Exo-Boots=14119
+    I:Exo-Chestpiece=14117
+    I:Exo-Goggles=14116
+    I:Exo-Legs=14118
     I:Gloves=14111
     I:"Heart Canister"=14105
-    I:"Heavy Boots"=14110
-    I:"Heavy Chestplate"=14108
-    I:"Heavy Helmet"=14106
-    I:"Heavy Pants"=14109
     I:Knapsack=14112
     I:"Wooden Boots"=14110
     I:"Wooden Chestplate"=14108
@@ -179,6 +178,7 @@ equipables {
 ####################
 
 experimental {
+    B:"Allow horses to be melted down for glue"=true
     B:"Items can be thrown into smelteries"=true
 
     # Warning: Very buggy
@@ -192,6 +192,15 @@ experimental {
 
 general {
     I:"Sea level"=64
+}
+
+
+####################
+# logging
+####################
+
+logging {
+    B:"Disable tool build messages"=false
 }
 
 
@@ -213,7 +222,6 @@ looks {
     I:"Armor Pattern"=14025
     I:"Blank Patterns"=14019
     I:Buckets=14101
-    I:"Essence Crystal"=14114
     I:"Golden Head"=14113
     I:Jerky=14115
     I:"Jeweled Apple"=14107
@@ -226,6 +234,31 @@ looks {
     I:"Tool Rod"=14021
     I:"Tool Shard"=14022
     I:"Wood Pattern"=14023
+}
+
+
+####################
+# smeltery output modification
+####################
+
+"smeltery output modification" {
+    # Number of ingots returned from smelting Aluminum Brass in the smeltery
+    I:"Aluminum Brass ingot return"=4
+
+    # Number of ingots returned from smelting Alumite in the smeltery
+    I:"Alumite ingot return"=3
+
+    # Number of ingots returned from smelting Bronze in the smeltery
+    I:"Bronze ingot return"=4
+
+    # Number of ingots returned from smelting ores in the smeltery
+    I:"Ingots per ore"=2
+
+    # Number of ingots returned from smelting Manyullyn in the smeltery
+    I:"Manyullyn ingot return"=1
+
+    # Number of ingots returned from smelting Pig Iron in the smeltery
+    I:"Pig Iron ingot return"=1
 }
 
 
@@ -288,7 +321,7 @@ tools {
     I:Excavator=14069
     I:"Frying Pan"=14058
     I:Hammer=14070
-    I:Hoe=31741
+    I:Hoe=14054
     I:Longbow=14062
     I:Longsword=14056
     I:"Lumber Axe"=14061
@@ -356,7 +389,7 @@ worldgen {
     I:"Iron Surface Rarity"=400
     I:"Nether Ores Density"=8
     I:"Silver Bush Density"=1
-    I:"Slime Island Rarity"=450
+    I:"Slime Island Rarity"=1450
     I:"Tin Bush Density"=2
     I:"Tin Bush Max Y"=40
     I:"Tin Bush Min Y"=0

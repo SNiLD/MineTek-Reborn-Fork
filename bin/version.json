@@ -3,7 +3,7 @@
     "libraries": [
         {
             "url": "http://files.minecraftforge.net/maven/",
-            "name": "net.minecraftforge:minecraftforge:9.11.1.953"
+            "name": "net.minecraftforge:minecraftforge:9.11.1.965"
         },
         {
             "serverreq": true,
@@ -199,8 +199,8 @@
     ],
     "mainClass": "net.minecraft.launchwrapper.Launch",
     "minimumLauncherVersion": 4,
-    "time": "2013-11-16T18:31:04-0500",
-    "id": "1.6.4-Forge9.11.1.953",
+    "time": "2013-12-18T00:41:38-0500",
+    "id": "1.6.4-Forge9.11.1.965",
     "type": "release",
     "processArguments": "username_session_version",
     "releaseTime": "1960-01-01T00:00:00-0700"
