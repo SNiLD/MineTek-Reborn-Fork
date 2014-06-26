@@ -1,0 +1,11 @@
+{
+  "mods": {
+    "1.6.4-Forge9.11.1.965": {
+      "macros": true,
+      "tabbychat": true,
+      "voxellib": true,
+      "voxelmenu": true,
+      "voxelplayer": true
+    }
+  }
+}
