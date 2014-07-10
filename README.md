@@ -6,6 +6,14 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+dev-1.2:
+
+* Fixed ICBM ID conflicts.
+* Fixed Atomic Science/Resonant Induction ID conflicts.
+* Fixed MFFS ID conflicts.
+* Removed unneccessary files.
+* Renamed mod files to integrate with existing structure better.
+
 dev-1.1.1:
 
 * Updated Mobius Core to version 1.2.2.
