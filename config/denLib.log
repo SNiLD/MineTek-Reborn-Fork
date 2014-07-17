@@ -854,6 +854,27 @@ Ore: compressedSand1x
 Ore: compressedSand2x
 Ore: ingotUnstable
 Ore: nuggetUnstable
+Fluid: mutagen
+Fluid: liquiddna
+Fluid: protein
+Ore: beeComb
+Ore: dropHoney
+Ore: dyeBlack
+Ore: dyeRed
+Ore: dyeGreen
+Ore: dyeBrown
+Ore: dyeBlue
+Ore: dyePurple
+Ore: dyeCyan
+Ore: dyeLightGray
+Ore: dyeGray
+Ore: dyePink
+Ore: dyeLime
+Ore: dyeYellow
+Ore: dyeLightBlue
+Ore: dyeMagenta
+Ore: dyeOrange
+Ore: dyeWhite
 Fluid: immibis.liquidxp
 Ore: itemBioFuel
 Fluid: minechem chemical: cellulose

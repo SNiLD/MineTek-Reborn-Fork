@@ -6,6 +6,25 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+dev-1.4:
+
+* Updated Forestry to version A-2.3.1.1.
+* Added BdLib version 1.2.3.48.
+* Added Carpenters' Blocks version 2.1.2.
+* Added Gendustry version 1.1.3.78.
+* Added iChun Util version 2.4.0.
+* Added Mechworks version 0.1.6.
+* Added Morph version 0.7.2.
+* Added OpenEye version 0.6-1.6.4.
+* Added Sync version 2.2.3.
+* Updated Voxel Menu versioning system to 1.4.
+
+dev-1.3:
+
+* Removed Equivalent Exchange 3.
+* Deleted unnecessary config files.
+* Fixed Modular Powersuits recipe issue
+
 dev-1.2:
 
 * Fixed ICBM ID conflicts.
