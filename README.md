@@ -6,6 +6,18 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+dev-1.6:
+
+* Updated MineChem to version 5.0.5-RC1.
+* Fixed ID conflicts between Enhanced Portals and Extra Cells.
+
+dev-1.5:
+
+* Updated Voxel Menu versioning systems to 1.5.
+* Added Enhanced Portals version 3.0.0b-final2
+* Added Pneumatic Craft version 1.1.4f.
+* Added JABBA version 1.1.4.
+
 dev-1.4:
 
 * Updated Forestry to version A-2.3.1.1.

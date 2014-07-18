@@ -278,6 +278,16 @@ Ore: waferAdvanced
 Ore: plateMeteoricIron
 Ore: ingotMeteoricIron
 Fluid: bacterialsludge
+Ore: ingotIron
+Ore: ingotGold
+Ore: slimeball
+Ore: gemDiamond
+Ore: gemEmerald
+Ore: chestWood
+Ore: stickWood
+Ore: obsidian
+Ore: whiteStone
+Ore: transdimBlock
 Fluid: creosote
 Ore: nuggetIron
 Ore: nuggetSteel
@@ -471,7 +481,7 @@ Ore: elementBoron
 Ore: elementCarbon
 Ore: elementNitrogen
 Ore: elementOxygen
-Ore: elementFlourine
+Ore: elementFluorine
 Ore: elementNeon
 Ore: elementSodium
 Ore: elementMagnesium
@@ -528,7 +538,7 @@ Ore: elementSamarium
 Ore: elementEuropium
 Ore: elementGadolinium
 Ore: elementTerbium
-Ore: elementDyprosium
+Ore: elementDysprosium
 Ore: elementHolmium
 Ore: elementErbium
 Ore: elementThulium
@@ -547,7 +557,7 @@ Ore: elementThallium
 Ore: elementLead
 Ore: elementBismuth
 Ore: elementPolonium
-Ore: elementAstantine
+Ore: elementAstatine
 Ore: elementRadon
 Ore: elementFrancium
 Ore: elementRadium
@@ -563,7 +573,7 @@ Ore: elementBerkelium
 Ore: elementCalifornium
 Ore: elementEinsteinium
 Ore: elementFermium
-Ore: elementMendelenium
+Ore: elementMendelevium
 Ore: elementNobelium
 Ore: elementLawrencium
 Ore: elementRutherfordium
@@ -573,11 +583,12 @@ Ore: elementBohrium
 Ore: elementHassium
 Ore: elementMeitnerium
 Ore: elementDarmstadtium
-Ore: elementRoenthenium
+Ore: elementRoentgenium
 Ore: elementCopernicium
 Ore: elementUnuntrium
 Fluid: myst.ink.black
 Fluid: xpjuice
+Fluid: etchacid
 Ore: stoneRod
 Ore: oreCertusQuartz
 Ore: crystalCertusQuartz
@@ -920,14 +931,14 @@ Fluid: minechem chemical: magnesium oxide
 Fluid: minechem chemical: cucurbitacin
 Fluid: minechem chemical: aspartic acid
 Fluid: minechem chemical: hydroxylapatite
-Fluid: minechem chemical: alanine (amino acid)
-Fluid: minechem chemical: glycine (amino acid)
-Fluid: minechem chemical: serine  (amino acid)
+Fluid: minechem chemical: alanine
+Fluid: minechem chemical: glycine
+Fluid: minechem chemical: serine
 Fluid: minechem chemical: mescaline
 Fluid: minechem chemical: methyl (ion)
 Fluid: minechem chemical: methylene (ion)
-Fluid: minechem chemical: cyanoacrylate
-Fluid: minechem chemical: poly-cyanoacrylate
+Fluid: minechem chemical: methyl methacrylate
+Fluid: minechem chemical: poly(methyl methacrylate)
 Fluid: minechem chemical: cobalt(ii) nitrate
 Fluid: minechem chemical: potassium dichromate
 Fluid: minechem chemical: potassium chromate
@@ -947,12 +958,12 @@ Fluid: minechem chemical: sucrose
 Fluid: minechem chemical: pantherine
 Fluid: minechem chemical: aluminium oxide
 Fluid: minechem chemical: carbon nanotubes
-Fluid: minechem chemical: keratin
+Fluid: minechem chemical: valine
 Fluid: minechem chemical: penicillin
 Fluid: minechem chemical: testosterone
 Fluid: minechem chemical: kaolinite
 Fluid: minechem chemical: fingolimod
-Fluid: minechem chemical: arginine (amino acid)
+Fluid: minechem chemical: arginine
 Fluid: minechem chemical: shikimic acid
 Fluid: minechem chemical: sulfuric acid
 Fluid: minechem chemical: glyphosate
@@ -963,7 +974,7 @@ Fluid: minechem chemical: t-2 mycotoxin
 Fluid: minechem chemical: salt
 Fluid: minechem chemical: ammonia
 Fluid: minechem chemical: nodularin
-Fluid: minechem chemical: ttx (tetrodotoxin)
+Fluid: minechem chemical: tetrodotoxin
 Fluid: minechem chemical: thc
 Fluid: minechem chemical: methylcyclopentadienyl manganese tricarbonyl
 Fluid: minechem chemical: tert-butyllithium
@@ -979,7 +990,7 @@ Fluid: minechem chemical: alprazolam
 Fluid: minechem chemical: hydrogen chloride
 Fluid: minechem chemical: cocaine
 Fluid: minechem chemical: cocaine hydrochloride
-Fluid: minechem chemical: 1,4-dimethyl-7-isopropylazulene (guaiazulene)
+Fluid: minechem chemical: guaiazulene
 Fluid: minechem chemical: pelargonidin
 Fluid: minechem chemical: delphinidin
 Fluid: minechem chemical: olivine
@@ -988,7 +999,7 @@ Fluid: minechem chemical: methyl alcohol
 Fluid: minechem chemical: cholesteryl benzoate
 Fluid: minechem chemical: radium chloride
 Fluid: minechem chemical: caulerpenyne
-Fluid: minechem chemical: l-hyoscyamine
+Fluid: minechem chemical: hyoscyamine
 Fluid: minechem chemical: gallic acid
 Fluid: minechem chemical: glucose
 Fluid: minechem chemical: tannic acid
@@ -1004,13 +1015,33 @@ Fluid: minechem chemical: orthoclase
 Fluid: minechem chemical: biotite
 Fluid: minechem chemical: augite
 Fluid: minechem chemical: talc
+Fluid: minechem chemical: propane
+Fluid: minechem chemical: peridot
+Fluid: minechem chemical: topaz
+Fluid: minechem chemical: zoisite
+Fluid: minechem chemical: cysteine
+Fluid: minechem chemical: threonine
+Fluid: minechem chemical: lysine
+Fluid: minechem chemical: methionine
+Fluid: minechem chemical: tyrosine
+Fluid: minechem chemical: histidine
+Fluid: minechem chemical: phenylalanine
+Fluid: minechem chemical: glutamine
+Fluid: minechem chemical: proline
+Fluid: minechem chemical: leucine
+Fluid: minechem chemical: tryptophan
+Fluid: minechem chemical: aspartate
+Fluid: minechem chemical: isoleucine
+Fluid: minechem chemical: glutamic acid
+Fluid: minechem chemical: asparagine
+Fluid: minechem chemical: keratin
 Fluid: helium
 Fluid: lithium
 Fluid: beryllium
 Fluid: boron
 Fluid: carbon
 Fluid: nitrogen
-Fluid: flourine
+Fluid: fluorine
 Fluid: neon
 Fluid: sodium
 Fluid: magnesium
@@ -1066,7 +1097,7 @@ Fluid: samarium
 Fluid: europium
 Fluid: gadolinium
 Fluid: terbium
-Fluid: dyprosium
+Fluid: dysprosium
 Fluid: holmium
 Fluid: erbium
 Fluid: thulium
@@ -1085,7 +1116,7 @@ Fluid: thallium
 Fluid: lead
 Fluid: bismuth
 Fluid: polonium
-Fluid: astantine
+Fluid: astatine
 Fluid: radon
 Fluid: francium
 Fluid: radium
@@ -1101,7 +1132,7 @@ Fluid: berkelium
 Fluid: californium
 Fluid: einsteinium
 Fluid: fermium
-Fluid: mendelenium
+Fluid: mendelevium
 Fluid: nobelium
 Fluid: lawrencium
 Fluid: rutherfordium
@@ -1111,7 +1142,7 @@ Fluid: bohrium
 Fluid: hassium
 Fluid: meitnerium
 Fluid: darmstadtium
-Fluid: roenthenium
+Fluid: roentgenium
 Fluid: copernicium
 Fluid: ununtrium
 Ore: dyeWhite
