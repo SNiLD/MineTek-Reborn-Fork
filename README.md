@@ -6,6 +6,12 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+dev-1.7:
+
+* Removed Magic Bees and relevant config files.
+* Removed Enhanced Portals and relevant config files.
+* Removed Useful Food and relevant config files.
+
 dev-1.6:
 
 * Updated MineChem to version 5.0.5-RC1.
