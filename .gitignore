@@ -1,0 +1,5 @@
+# Ignore logs
+*.log
+
+# Ignore tabbychat user data
+*_chanData.ser
