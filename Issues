@@ -1,0 +1,71 @@
+# Known Issues
+
+##### Post all new issues in a new issue.
+If you post it here, I promise I'll get really mad about it, and straight up delete your post.
+* Once we've read your issue post, it will be copied into this one.
+* Please keep all discussion regarding an issue in that issue's thread. It's okay to post in a closed thread.
+* When an issue is resolved, it will be removed from this post.
+* Please make certain you are not running Java 1.8. Minecraft is built against Java 1.6, and it's mostly coincidence that 1.7 is compatible. 1.8 is known to cause problems with Minecraft.
+* As of Mon, Aug 11, when someone says to update to the newest version of Java, they are referring to Java 1.7u67-b1. *DO NOT USE JAVA 1.8.*
+
+### Regarding categories in this post:
+* If an issue is listed as Reported, someone claims to have encountered the problem, but a dev has not yet confirmed the problem.3
+* If an issue is listed as Confirmed, someone claims to have encountered the problem, and a dev has replicated the problem.
+* If an issue is listed as Possible, someone claims to have encountered the problem, but devs were unable to replicate the issue. This does not mean that the issue does not exist; we just haven't seen it.
+* If an issue is listed as Intentional, it's not a bug, so don't report it.
+
+# ID Conflicts
+
+These issues tend to be easy to fix, and usually won't be here for too long.
+
+#### Reported Issues:
+* None
+
+#### Confirmed Issues:
+* None
+
+#### Possible Issues:
+* None
+
+#### Intentional:
+* Creepers drop sulfur. This is added by ICBM, and is a feature, not a bug.
+* Yellorium Ore smelts into Uranium-235. This happens because of Forge's OreDictionary, and is normal.
+
+# Mod Interaction Bugs
+
+These types of issues are, for the most part, very hard to fix, and may never end up fixed, since we don't control the source of the mods in the pack.
+
+#### Reported Issues:
+* If a quarry is placed in 'The Deep Dark' with an ender chest on top of the quarry block will crash the server. (Dev-1.7.2)
+
+#### Confirmed Issues:
+* Creating an Archimedes' ship with carpenters blocks works fine. However, when you try to enter the ship, the game crashes. (All versions forever)
+* Every colored wood plank is white when put in a Carpenters Block. (All versions forever)
+* A number of machines have caused client crashes when connected to Thermal Expansion coduits, fluiducts, or itemducts. If this happens to you, simply log back in, and use a different type of power, fluid, or item transfer. (2.0.3)
+
+#### Possible Issues:
+* None
+
+#### Intentional:
+* None
+
+# Other Problems
+
+These are you run-of-the-mill crashes. They tend to be issues with an individual mod, and aren't usually fixable by devs, aside from updating to newer versions.
+
+#### Reported Issues:
+* None
+
+#### Confirmed Issues:
+* Carpenter's Blocks seems to occasionally cause crashes and rendering issues when certain blocks are placed. This appears to be isolated to AMD graphics cards, and can be resolved by removing Optifine. It is unknown whether this is isolated to Windows; other OSs may work fine. (2.0.2)
+* There are a variety of broken recipies. We are working on a fix. Please point out any unusual recipies. (2.0.3)
+* Sometimes, players using morphs will be rendered incorrectly. Restarting your computer fixes the issue.
+
+#### Possible Issues:
+* Some people have reported crashing after breaking ComputerCraft Advanced Monitors. I was unable to reproduce this crash. This may be related to the CB-Optifine-AMD crash. (2.0.2)
+
+#### Intentional:
+* None
+
+
+Last updated 8/10/2014
