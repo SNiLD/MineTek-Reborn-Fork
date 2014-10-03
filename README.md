@@ -9,7 +9,7 @@ Changelog
 2.5: 
 
 * Pack updated to 1.7.10.
-* ScarecrowKrone's last pack update, seeya later shitlords!
+* ScarecrowKrone's last pack update, seeya later ~~shitlords~~ kind, wonderful users!
 
 2.1.2: 
 
