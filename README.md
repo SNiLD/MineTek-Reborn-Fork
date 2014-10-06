@@ -3,6 +3,13 @@ MineTek
 
 Repository for the MineTek modpack. Only used for bug and issue tracking.
 
+Notice
+======
+
+This branch is provided WITHOUT ANY PROMISE OF SUPPORT regarding setup. If you'd like to use these files, you are free to do so, but none of the devs here will be able to assist you in setting up your server.
+
+These files are *not quite* ready to be dropped into an exsting MCMA installation. Make sure to set the server type to MCPC+.
+
 Changelog
 =========
 
