@@ -6,6 +6,69 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+2.5: 
+
+* Pack updated to 1.7.10.
+* ScarecrowKrone's last pack update, seeya later ~~shitlords~~ kind, wonderful users!
+
+2.1.2: 
+
+* Rolled back Atomic Science to version RI-0.3.1.367.
+* Resonant Engine to version 1.2.0.348.
+* Rolled back Resonant Induction to version 0.3.1.367.
+* Rolled back Universal Electricity to version 3.1.0.107.
+
+2.1.1:
+
+* Updated Steve's Carts to version 2.0.0.b11.
+
+2.1: 
+
+* Updated Atomic Science to version RI-0.3.1-369
+* Updated Balkons Weapons Mod to version 1.13.6
+* Updated bspkrscore to version 5.3.
+* Updated Carpenter's Blocks to version 3.2.6.
+* Updated Damage Indicators to version 2.9.2.4.
+* Updated DenLib to version 3.2.6.
+* Updated Extra Cells to version 1.6.9d.
+* Updated Extra Utilities to version 1.0.3c.
+* Updated Forestry to version A-2.3.1.1.
+* Updated Galacticraft to version 2.0.14.1084.
+* Updated Iron Chests to version 5.4.1.702.
+* Updated Logistic Pipes to version 0.7.4.dev.294.
+* Updated MFFS to version 3.6.3.91.
+* Updated MineChem to version 5.0.5-RC2.
+* Updated Mystcraft to version 0.10.13.01.
+* Updated Open Blocks to version 1.2.9.
+* Updated Resonant Engine to version 1.2.0.349.
+* Updated Resonant Induction to version 0.3.1.369.
+* Updated Soul Shards to version 2.0.15.
+* Updated Thaumic Tinkerer to version 2.3-140.
+* Updated Tinker's Construct to version 1.6.4-1.5.5.7.
+* Updated Universal Electricity to version 3.1.0.115.
+* Updated Voxel Menu versioning systems to 2.1.
+
+2.0.3:
+
+* Updated Carpenter's Blocks to version 3.2.5-dev-r4.
+
+2.0.2:
+
+* Fixed downloads.
+
+2.0:
+
+* Updated Carpenter's Blocks to version 3.2.5-dev-r2.
+* Final config tweaks.
+
+dev-1.7.2: 
+
+* Updated Optifine to version HD Ultra D1.
+
+dev-1.7.1: 
+
+* Updated Logistics Pipes to version 0.7.4.dev.292.
+
 dev-1.7:
 
 * Removed Magic Bees and relevant config files.
