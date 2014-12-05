@@ -6,10 +6,14 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+2.6.7:
+
+* New recommended build
+* 1.7.10 Rebuild
+
 2.5: 
 
 * Pack updated to 1.7.10.
-* ScarecrowKrone's last pack update, seeya later ~~shitlords~~ kind, wonderful users!
 
 2.1.2: 
 
