@@ -1,7 +1,7 @@
-MineTek
+MineTek 1.6.4
 =======
 
-Repository for the MineTek modpack. Only used for bug and issue tracking.
+Repository for the MineTek modpack. Only used for bug and issue tracking. 1.6.4 development is now terminated.
 
 Changelog
 =========
