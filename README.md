@@ -6,10 +6,38 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+2.8.4:
+
+* Updated EnderIO to version 1.7.10-2.2.5.311. Fixes #194.
+* Removed unnecessary dynamiclights.zip.
+
+2.8.3:
+
+* Removed CustomNPC's.
+* Removed Advanced Genetics.
+* Removed MrCrayfishFurniture.
+* Added BluePower.
+* Added Optifine.
+* Updated Hardcore Ender Expansion to version 1.6.7.
+* Updated iChun Util to version 4.1.2.
+* Updated IndustrialCraft2 to version 2.2.658.
+* Updated MFFS to version 4.1.1.59.
+* Updated Morph to version 0.9.1.
+* Updated Nether Ores to version 2.3.0-RC4-4.
+* Updated Project Red to version 4.5.8.59.
+* Updated Resonant Induction to version 0.3.5.257.
+* Updated Thermal Expansion to version 4.0.0-B8-23.
+* Updated Thermal Foundation to version 1.0.0-RC1-13.
+* Updated Balkons Weapon Mod to version 1.14.3.
+
+2.6.7:
+
+* New recommended build
+* 1.7.10 Rebuild
+
 2.5: 
 
 * Pack updated to 1.7.10.
-* ScarecrowKrone's last pack update, seeya later ~~shitlords~~ kind, wonderful users!
 
 2.1.2: 
 
