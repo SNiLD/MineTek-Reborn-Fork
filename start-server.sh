@@ -9,7 +9,7 @@
 # It may be possible to run it with less. I haven't, and won't, check, because I frankly don't care. #notadickjustreallylazy
 
 SERVERJAR='NAME-OF-SERVER-JAR-GOES-HERE'
-JAVA=$(which java) #i think there's a better way to write this, but w/e
+JAVA=`which java` #i think there's a better way to write this, but w/e
 MEMARGS='-Xmx4G -Xms1G -XX:PermSize=256m -XX:MaxPermSize=512m -Xmn128M'
 OTHERARGS='-XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy' #idk wat this is, lol
 
