@@ -6,6 +6,27 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+2.8.7:
+
+* Updated Applied Energistics to version 2-rv2-beta-7.
+
+2.8.6:
+
+* Updated Mekanism to version 1.7.10-7.1.1.145.
+* Merged 2.8.5-rc2 changes into master.
+
+2.8.5-rc2:
+
+* Updated Applied Energistics to version 2-rv2-beta-2.
+
+2.8.5:
+
+* Updated Applied Energistics to version 2-rv2-alpha-29.
+* Updated Extra Cells to version 1.7.10-2.2.23-b43.
+* Updated Open Blocks to version 1.7.10-1.3-snapshot-523.
+* Updated Open Mods Lib to version 1.7.10-0.6-snapshot-279.
+* Fixes #179 and #180.
+
 2.8.4:
 
 * Updated EnderIO to version 1.7.10-2.2.5.311. Fixes #194.
