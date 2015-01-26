@@ -65,10 +65,11 @@ These issues tend to be easy to fix, and usually won't be here for too long.
 These types of issues are, for the most part, very hard to fix, and may never end up fixed, since we don't control the source of the mods in the pack.
 
 #### Reported Issues:
-* None
+* Client side crash when crafting tin wire or empty cells. Multiplayer only, seems to be a clash between IC2, Tinker's Construct and the generated GUI. Has not yet been replicated by **[@skwerlman](https://github.com/skwerlman)** or **[@ScarecrowKrone](https://github.com/ScarecrowKrone)**. See [issue #200](#200).
+* Server hangs when placing certain microblocks in the same block. Affects both single- and multiplayer games. See [issue #207](#207).
 
 #### Confirmed Issues:
-* ForgeMultipart has a bug which can force users to suffer client-side crashes when using WR-CBE and Project Red. This has been traced to a version mismatch on the part of Project Red. See #195.
+* None
 
 #### Possible Issues:
 * None
@@ -81,12 +82,10 @@ These types of issues are, for the most part, very hard to fix, and may never en
 These are you run-of-the-mill crashes. They tend to be issues with an individual mod, and aren't usually fixable by pack devs, aside from updating to newer versions.
 
 #### Reported Issues:
-* Client side crash when crafting tin wire or empty cells. Multiplayer only, seems to be a clash between IC2, Tinker's Construct and the generated GUI. Has not yet been replicated by @skwerlman or Scare. See #200.
-* Client side crash on AMD GPUs when using Optifine. Devs cannot test as we only have nVidia GPUs. Potentially related to the `Advanced OpenGL` setting. See #208.
+* Client side crash on AMD GPUs when using Optifine. Devs cannot test as we only have nVidia GPUs. Potentially related to the `Advanced OpenGL` setting. See [issue #208](#208).
 
 #### Confirmed Issues:
-* Mekanism v7 (all current builds) has a faulty HashMap iteration bug, which can force the server to lag out, crash and/or time out all clients. Mekanism devs are aware. See #188.
-* ComputerCraft monitors crash clients out when teleporting to an area with monitors present. Reported to dan200, see #178.
+* ComputerCraft monitors crash clients out when teleporting to an area with monitors present. Reported to dan200, see [issue #178](#178).
 
 #### Possible Issues:
 * None
