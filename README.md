@@ -6,6 +6,8 @@ Repository for the MineTek modpack. Only used for bug and issue tracking.
 Changelog
 =========
 
+Changelogs for MineTek 3 can be found here: http://www.technicpack.net/modpack/minetek.52352/changelog
+
 2.8.7:
 
 * Updated Applied Energistics to version 2-rv2-beta-7.
