@@ -85,6 +85,10 @@ These are you run-of-the-mill crashes. They tend to be issues with an individual
 
 #### Confirmed Issues:
 * ComputerCraft monitors crash clients out when teleporting to an area with monitors present. Reported to dan200, see [issue #178](https://github.com/ScarecrowKrone/MineTek/issues/178).
+* Optifine causes random crashes on AMD graphics cards. See [issue #211](https://github.com/ScarecrowKrone/MineTek/issues/211).
+  * *Workarounds:*
+    1. Disable connected textures and advanced OpenGL.
+    2. Remove Optifine.
 
 #### Possible Issues:
 * None
