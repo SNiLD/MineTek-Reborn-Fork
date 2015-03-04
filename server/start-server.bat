@@ -1,0 +1,1 @@
+java -Xmx4G -Xms4G -Xmn128M -XX:+UseConcMarkSweepGC -XX:-UseAdaptiveSizePolicy -server -jar minetek.jar -pause
