@@ -1,7 +1,7 @@
 MineTek Reborn Fork
 ===================
 
-This is fork of MineTek (https://github.com/ScarecrowKrone/MineTek) modpack from version 2.8.7.
+This is fork of MineTek (http://www.technicpack.net/modpack/minetek.52352) modpack from version 2.8.7.
 
 Changelog
 =========
